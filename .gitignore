@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# os files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# logs
+npm-debug.log*
+*.log
+
+# env
+.env
+.env.local
+
+# build
+dist/
+build/
+
+# cache
+.cache/
+.parcel-cache/
+
+# no need
+*.tmp
